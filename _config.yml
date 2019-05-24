@@ -6,7 +6,8 @@ port: 4001
 # Setup
 title:               Walker Aerospace
 description:         'Development of Flight Controls and Autonomous Systems for Rotorcraft.'
-url:                 localhost # https://jeffrywalker.github.io
+#url:               localhost
+url:                 https://jeffrywalker.github.io
 baseurl:             ''
 plugins:               [jekyll-paginate, jekyll-gist]
 paginate:            5
