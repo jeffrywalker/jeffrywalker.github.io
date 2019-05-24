@@ -7,7 +7,7 @@ port: 4001
 title:               Walker Aerospace
 description:         'Development of Flight Controls and Autonomous Systems for Rotorcraft.'
 #url:               localhost
-url:                 https://jeffrywalker.github.io
+url:                 https://walkeraerospace.com #https://jeffrywalker.github.io
 baseurl:             ''
 plugins:               [jekyll-paginate, jekyll-gist]
 paginate:            5
