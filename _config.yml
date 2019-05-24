@@ -1,0 +1,21 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+port: 4001
+# Setup
+title:               Walker Aerospace
+description:         'Development of Flight Controls and Autonomous Systems for Rotorcraft.'
+url:                 https://jeffrywalker.github.io
+baseurl:             ''
+plugins:               [jekyll-paginate, jekyll-gist]
+paginate:            5
+paginate_path:       "page:num"
+# About/contact
+author:
+  name:              Jeffry Walker
+  url:               https://google.com
+  email:             something@email.com
+
+# Custom vars
+version:             1.0.0
